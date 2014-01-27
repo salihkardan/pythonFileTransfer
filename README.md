@@ -1,4 +1,4 @@
 pythonFileTransfer
 ==================
 
-File transerver over socket. 
+File transfer over socket. 
